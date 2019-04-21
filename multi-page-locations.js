@@ -1,10 +1,10 @@
 ﻿/*
-	Cordova-Multi-Page
+	Cordova/Phonegap-Multi-Page-Locations
 	It helps you to create a Cordova app with multiple html file pages. also you can now send Data between pages.
 	Developer: Saleh Mosleh (salehmosleh2012@gmail.com)
 	Url: https://github.com/salehmosleh/Cordova-Multi-Page
 */
-function PageLocation(){
+function MultiPageLocations(){
 	
 	this.clear = function(){
 		if(sessionStorage.hasOwnProperty("pageparams"))
